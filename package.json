@@ -1,0 +1,25 @@
+{
+  "name": "piece",
+  "description": "PIeCE, Pubsub Invalidating CachE",
+  "version": "0.0.1",
+  "contributors": [
+    "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)"
+  ],
+  "keywords": ["cache", "local", "pubsub"],
+  "license": "MIT",
+  "repository": "MobiltronInc/piece",
+  "dependencies": {
+    "lodash": "latest"
+  },
+  "devDependencies": {},
+  "files": [
+    "lib/",
+    "LICENSE.md",
+    "README.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "scripts": {}
+}
