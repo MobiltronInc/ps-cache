@@ -9,7 +9,8 @@
   "license": "MIT",
   "repository": "MobiltronInc/piece",
   "dependencies": {
-    "lodash": "latest"
+    "lodash": "latest",
+    "bluebird": "latest"
   },
   "devDependencies": {},
   "files": [
