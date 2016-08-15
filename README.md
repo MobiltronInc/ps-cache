@@ -6,7 +6,7 @@ PIeCE, Pubsub Invalidating CachE
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE.md)
 
 
 [npm-url]: https://npmjs.org/package/PIeCE
