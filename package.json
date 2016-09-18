@@ -1,13 +1,17 @@
 {
   "name": "piece",
   "description": "PIeCE, Pubsub Invalidating CachE",
-  "version": "0.0.1",
+  "version": "1.0",
+  "author": "Mobiltron Inc <dev@mobiltron.com>",
   "contributors": [
     "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)"
   ],
   "keywords": ["cache", "local", "pubsub"],
   "license": "MIT",
-  "repository": "MobiltronInc/piece",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MobiltronInc/piece"
+  },
   "dependencies": {
     "lodash": "latest",
     "bluebird": "latest"
