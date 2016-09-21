@@ -14,3 +14,8 @@ PIeCE, Pubsub Invalidating CachE
 [downloads-url]: https://npmjs.org/package/piece
 [downloads-image]: https://img.shields.io/npm/dm/piece.svg
 
+
+## License
+
+[MIT](LICENSE)
+[MIT](LICENSE.md)
