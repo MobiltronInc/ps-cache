@@ -17,5 +17,4 @@ PIeCE, Pubsub Invalidating CachE
 
 ## License
 
-[MIT](LICENSE)
 [MIT](LICENSE.md)
