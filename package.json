@@ -6,7 +6,7 @@
   "contributors": [
     "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)"
   ],
-  "keywords": ["cache", "local", "pubsub"],
+  "keywords": ["cache", "local", "pubsub", "caching"],
   "license": "MIT",
   "repository": {
     "type": "git",
