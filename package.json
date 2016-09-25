@@ -2,7 +2,7 @@
   "name": "piece",
   "description": "PIeCE, Pubsub Invalidating CachE",
   "version": "1.0",
-  "author": "Mobiltron Inc <dev@mobiltron.com>",
+  "author": "Mobiltron, Inc <dev@mobiltron.com>",
   "contributors": [
     "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)"
   ],
