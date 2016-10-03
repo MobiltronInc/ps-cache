@@ -1,6 +1,6 @@
 {
-  "name": "piece",
-  "description": "PIeCE, Pubsub Invalidating CachE",
+  "name": "ps-cache",
+  "description": "ps-cache, pubsub caching library",
   "version": "1.0",
   "author": "Mobiltron, Inc <dev@mobiltron.com>",
   "contributors": [
