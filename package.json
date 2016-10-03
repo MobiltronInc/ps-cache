@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MobiltronInc/piece"
+    "url": "https://github.com/MobiltronInc/ps-cache"
   },
   "dependencies": {
     "lodash": "latest",
