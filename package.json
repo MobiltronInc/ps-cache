@@ -2,7 +2,6 @@
   "name": "ps-cache",
   "description": "ps-cache, pubsub caching library",
   "version": "1.0.0",
-  "author": "Mobiltron, Inc <dev@mobiltron.com>",
   "contributors": [
     "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)"
   ],
@@ -27,7 +26,7 @@
     "index.js"
   ],
   "engines": {
-    "node": ">= 4.0"
+    "node": ">= 6.0"
   },
   "scripts": {
     "test": "mocha --reporter spec --check-leaks --bail test/"
