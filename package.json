@@ -1,7 +1,7 @@
 {
   "name": "ps-cache",
   "description": "ps-cache, pubsub caching library",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "contributors": [
     "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)"
   ],
