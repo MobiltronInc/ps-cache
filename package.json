@@ -1,34 +1,40 @@
 {
-  "name": "ps-cache",
-  "description": "ps-cache, pubsub caching library",
-  "version": "0.1.0",
-  "contributors": [
-    "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)"
-  ],
-  "keywords": ["cache", "local", "pubsub", "caching"],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MobiltronInc/ps-cache"
-  },
-  "dependencies": {
-    "lodash": "latest",
-    "bluebird": "latest"
-  },
-  "devDependencies": {
-    "mocha": "latest",
-    "assert": "latest"
-  },
-  "files": [
-    "lib/",
-    "LICENSE.md",
-    "README.md",
-    "index.js"
-  ],
-  "engines": {
-    "node": ">= 6.0"
-  },
-  "scripts": {
-    "test": "mocha --reporter spec --check-leaks --bail test/"
-  }
+	"name": "ps-cache",
+	"description": "ps-cache, pubsub caching library",
+	"version": "0.1.0",
+	"author": "Mobiltron, Inc <dev@mobiltron.com>",
+	"contributors": [
+		"Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)"
+	],
+	"keywords": [
+		"cache",
+		"local",
+		"pubsub",
+		"caching"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MobiltronInc/ps-cache"
+	},
+	"dependencies": {
+		"lodash": "latest",
+		"bluebird": "latest"
+	},
+	"devDependencies": {
+		"mocha": "latest",
+		"assert": "latest"
+	},
+	"files": [
+		"lib/",
+		"LICENSE.md",
+		"README.md",
+		"index.js"
+	],
+	"engines": {
+		"node": ">= 6.0"
+	},
+	"scripts": {
+		"test": "mocha --reporter spec --check-leaks --bail test/"
+	}
 }
