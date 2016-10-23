@@ -18,8 +18,7 @@
 		"url": "https://github.com/MobiltronInc/ps-cache"
 	},
 	"dependencies": {
-		"lodash": "latest",
-		"bluebird": "latest"
+		"lodash": "latest"
 	},
 	"devDependencies": {
 		"mocha": "latest",
