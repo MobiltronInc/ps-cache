@@ -1,5 +1,7 @@
 # ps-cache
 
+[![NPM](https://nodei.co/npm/ps-cache.png?downloads=true&stars=true)](https://nodei.co/npm/ps-cache/)
+
 ps-cache (caching)
 
 A simple, yet efficient in memory caching mechanism.
