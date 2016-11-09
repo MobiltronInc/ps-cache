@@ -4,7 +4,7 @@
   "version": "0.3.0",
   "author": "Mobiltron, Inc <dev@mobiltron.com>",
   "contributors": [
-    "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)"
+    "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)", "Stavros Schizas <stavros@mobiltron.com> (http://mobiltron.com)"
   ],
   "keywords": [
     "cache",
