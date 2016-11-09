@@ -1,6 +1,6 @@
 # ps-cache
 
-[![NPM](https://nodei.co/npm/ps-cache.png?downloads=true&stars=true)](https://nodei.co/npm/ps-cache/)
+[![NPM](https://nodei.co/npm/ps-cache.png?downloads=true)](https://nodei.co/npm/ps-cache/)
 
 ps-cache (caching)
 
