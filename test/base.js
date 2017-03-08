@@ -1,4 +1,3 @@
-var Bluebird = require('bluebird');
 var assert = require('assert');
 
 var Cache = require('../index.js').Cache;
