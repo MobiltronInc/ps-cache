@@ -1,10 +1,11 @@
 {
   "name": "ps-cache",
   "description": "ps-cache, pubsub caching library",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": "Mobiltron, Inc <dev@mobiltron.com>",
   "contributors": [
-    "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)", "Stavros Schizas <stavros@mobiltron.com> (http://mobiltron.com)"
+    "Vassilios Karakoidas <v.karakoidas@mobiltron.com> (http://bkarak.wizhut.com/blog/)",
+    "Stavros Schizas <stavros@mobiltron.com> (http://mobiltron.com)"
   ],
   "keywords": [
     "cache",
@@ -21,8 +22,8 @@
     "lodash": "latest"
   },
   "devDependencies": {
-    "mocha": "latest",
-    "assert": "latest"
+    "assert": "latest",
+    "mocha": "latest"
   },
   "files": [
     "lib/",
