@@ -3,7 +3,6 @@ ps-cache
 
 [![Build Status](https://travis-ci.org/MobiltronInc/ps-cache.svg?branch=master)](https://travis-ci.org/MobiltronInc/ps-cache)
 [![GitHub issues](https://img.shields.io/github/issues/MobiltronInc/ps-cache.svg)](https://github.com/MobiltronInc/ps-cache/issues)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/MobiltronInc/ps-cache.svg?style=social)](https://twitter.com/intent/tweet?text=Check out ps-cache open source project!&url=https%3A%2F%2Fgithub.com%2FMobiltronInc%2Fps-cache)
 
 ## Value
 A simple, yet efficient in memory caching mechanism. With extensibility in our mind we created ps-cache.
