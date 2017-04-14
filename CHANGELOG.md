@@ -1,5 +1,8 @@
 ## Changelog
 
+### 0.5.0
+- Added weekly ttl.
+
 ### 0.4.2
 - Fixed broken publish caused by yarn.
 
