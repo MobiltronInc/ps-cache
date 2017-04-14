@@ -1,7 +1,8 @@
-# pusher-ps-cache
+# ps-cache
 
 [![Build Status](https://travis-ci.org/MobiltronInc/ps-cache.svg?branch=master)](https://travis-ci.org/MobiltronInc/ps-cache)
 [![GitHub issues](https://img.shields.io/github/issues/MobiltronInc/ps-cache.svg)](https://github.com/MobiltronInc/ps-cache/issues)
+[![Dependency Status](https://david-dm.org/mobiltroninc/ps-cache.svg)](https://github.com/MobiltronInc/ps-cache)
 
 A simple, yet efficient in memory caching mechanism. With extensibility in our mind we created ps-cache.
 
